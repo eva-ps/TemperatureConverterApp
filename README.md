@@ -1,6 +1,6 @@
 # Simple Temperature Converter App
 <br>
-A Simple Android Project for Temperature Conversion between Celsius and Fahrenheit. 
+A Simple <strong>Android</strong> Project for Temperature Conversion between Celsius and Fahrenheit. 
 <br>
 <br>
 
